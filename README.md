@@ -1,2 +1,1 @@
-# oh-my-jemfish
-OMF config
+here go stuff
