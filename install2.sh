@@ -31,3 +31,5 @@ for file in $files; do
 done
 
 export OMF_CONFIG=$dir/omf
+
+exec bash
