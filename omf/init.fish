@@ -1,3 +1,10 @@
+if status --is-interactive
+    echo "is login shell"
+        set PATH $PATH ~/bin
+        end
+        
+export POSTGRESQL_URL=postgres://jsumner:jsumner@localhost:5432/ascertain
+
 set -g theme_display_git yes
 set -g theme_display_git_untracked yes
 set -g theme_display_git_ahead_verbose yes
